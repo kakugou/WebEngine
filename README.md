@@ -35,5 +35,10 @@ WebEngine
 4.使用数据库，打开`application/config/database.php`文件设置数据库参数，  
 
 ***
-### Design by Yanvalue  
+### 项目构建
+***
+本项目构建于[CodeIgniter](https://github.com/bcit-ci/CodeIgniter/)  
+前端框架采用[Amaze UI](https://github.com/allmobilize/amazeui/stargazers)
+***  
+### Design by [Yanvalue](https://about.me/zhu.yan)
 ***
