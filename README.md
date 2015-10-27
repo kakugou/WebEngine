@@ -1,4 +1,4 @@
-# WebEngine -- *东半球第二好用的CMS系统*
+# WebEngine —— 东半球第二好用的CMS系统
 
 ![Show](https://github.com/Yanvalue/WebEngine/blob/master/other/show.png)
 

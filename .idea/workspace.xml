@@ -2,7 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cbded24-73a6-4646-83a6-d81aa57343f4" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-help.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-index-fixed.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-log.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-table.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\admin-user.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\iscroll.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\landing.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\non-responsive.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\widget.basic.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\widget.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\welcome_message.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/controllers/Welcome.php" afterPath="$PROJECT_DIR$/web/controllers/Welcome.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config/database.php" afterPath="$PROJECT_DIR$/web/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/views/welcome_message.php" afterPath="$PROJECT_DIR$/admin/views/welcome_message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\admin.css" afterPath="$PROJECT_DIR$/web/views/css/admin.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\amazeui.css" afterPath="$PROJECT_DIR$/web/views/css/amazeui.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\amazeui.flat.css" afterPath="$PROJECT_DIR$/web/views/css/amazeui.flat.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\amazeui.flat.min.css" afterPath="$PROJECT_DIR$/web/views/css/amazeui.flat.min.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\amazeui.min.css" afterPath="$PROJECT_DIR$/web/views/css/amazeui.min.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\css\app.css" afterPath="$PROJECT_DIR$/web/views/css/app.css" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/web/views/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/web/views/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/web/views/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/web/views/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/web/views/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/web/views/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\app-icon72x72@2x.png" afterPath="$PROJECT_DIR$/web/views/i/app-icon72x72@2x.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\admin-chrome.png" afterPath="$PROJECT_DIR$/web/views/i/examples/admin-chrome.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\admin-firefox.png" afterPath="$PROJECT_DIR$/web/views/i/examples/admin-firefox.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\admin-ie.png" afterPath="$PROJECT_DIR$/web/views/i/examples/admin-ie.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\admin-opera.png" afterPath="$PROJECT_DIR$/web/views/i/examples/admin-opera.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\admin-safari.png" afterPath="$PROJECT_DIR$/web/views/i/examples/admin-safari.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\adminPage.png" afterPath="$PROJECT_DIR$/web/views/i/examples/adminPage.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\blogPage.png" afterPath="$PROJECT_DIR$/web/views/i/examples/blogPage.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\landing.png" afterPath="$PROJECT_DIR$/web/views/i/examples/landing.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\landingPage.png" afterPath="$PROJECT_DIR$/web/views/i/examples/landingPage.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\loginPage.png" afterPath="$PROJECT_DIR$/web/views/i/examples/loginPage.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\examples\sidebarPage.png" afterPath="$PROJECT_DIR$/web/views/i/examples/sidebarPage.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\favicon.png" afterPath="$PROJECT_DIR$/web/views/i/favicon.png" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\i\startup.jpg" afterPath="$PROJECT_DIR$/web/views/i/startup.jpg" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.ie8polyfill.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.ie8polyfill.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.ie8polyfill.min.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.ie8polyfill.min.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.min.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.min.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.widgets.helper.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.widgets.helper.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\amazeui.widgets.helper.min.js" afterPath="$PROJECT_DIR$/web/views/js/amazeui.widgets.helper.min.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\app.js" afterPath="$PROJECT_DIR$/web/views/js/app.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\handlebars.min.js" afterPath="$PROJECT_DIR$/web/views/js/handlebars.min.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\js\jquery.min.js" afterPath="$PROJECT_DIR$/web/views/js/jquery.min.js" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\login.html" afterPath="$PROJECT_DIR$/web/views/login.php" />
+      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\web\views\Amaze\sidebar.html" afterPath="$PROJECT_DIR$/web/views/blog.php" />
     </list>
     <ignored path="WebEngine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,93 +85,126 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/web/views/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.846153">
-              <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1445931222178" expanded="true" signature="728:2232" placeholder="..." />
+                <marker date="1445931222178" expanded="true" signature="743:874" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="895:1033" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1052:1093" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1111:1152" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1173:1273" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1294:1333" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1353:1392" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1413:1457" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1473:1546" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1566:1609" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1628:1674" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1696:1736" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1753:1851" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1874:1913" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="1936:2044" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="2064:2220" placeholder="{...}" />
+                <marker date="1445931222178" expanded="true" signature="2247:2262" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4493392">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/install/index.php">
+      <file leaf-file-name="iscroll.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/iscroll.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="landing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/landing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.538462">
+              <caret line="186" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/core/index.html">
+        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/core/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-26.73077">
+              <caret line="51" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+              <folding>
+                <marker date="1445913403122" expanded="true" signature="1668:1791" placeholder="..." />
+                <marker date="1445913403122" expanded="true" signature="1717:1775" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/config/config.php">
+        <entry file="file://$PROJECT_DIR$/web/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="175.96153">
-              <caret line="185" column="36" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/favicon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="welcome_message.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/views/welcome_message.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="startup.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/startup.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.846153">
+              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-icon72x72@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/app-icon72x72@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.5">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#7#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views/blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="113.76923">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -123,8 +216,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/web/views/welcome_message.php" />
+        <option value="$PROJECT_DIR$/admin/views/welcome_message.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/web/config/database.php" />
+        <option value="$PROJECT_DIR$/web/controllers/Welcome.php" />
+        <option value="$PROJECT_DIR$/web/views/index.html" />
+        <option value="$PROJECT_DIR$/web/views/landing.html" />
+        <option value="$PROJECT_DIR$/web/views/login.php" />
+        <option value="$PROJECT_DIR$/web/views/blog.php" />
+        <option value="$PROJECT_DIR$/web/config/config.php" />
+        <option value="$PROJECT_DIR$/web/views/index.php" />
       </list>
     </option>
   </component>
@@ -144,6 +249,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -168,8 +292,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,23 +310,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\EasyPHP\data\localweb\WebEngine\admin" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EasyPHP\data\localweb\WebEngine\web\views" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i" />
       <recent name="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze" />
     </key>
@@ -252,10 +434,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -290,6 +473,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/startup.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/app-icon72x72@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -310,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,26 +510,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contributing.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.576923">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -345,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.692307">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5975057">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -369,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,15 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/views/welcome_message.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.76923">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -401,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,9 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-30.73077">
           <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding>
-            <marker date="1445913403166" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1445913403157" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,17 +643,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="175.96153">
+        <state vertical-scroll-proportion="0.0">
           <caret line="185" column="36" selection-start-line="185" selection-start-column="36" selection-end-line="185" selection-end-column="36" />
           <folding />
         </state>
@@ -507,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.846153">
-          <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/install/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -523,10 +675,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4493392">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.787879">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.384615">
+          <caret line="206" column="0" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/language/english/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/language/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.846153">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/Amaze/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.73077">
+          <caret line="51" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding>
+            <marker date="1445913403122" expanded="true" signature="1668:1791" placeholder="..." />
+            <marker date="1445913403122" expanded="true" signature="1717:1775" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/Amaze/iscroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/Amaze/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="186" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#7#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="113.76923">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/views/welcome_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1445931222178" expanded="true" signature="728:2232" placeholder="..." />
+            <marker date="1445931222178" expanded="true" signature="743:874" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="895:1033" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1052:1093" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1111:1152" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1173:1273" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1294:1333" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1353:1392" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1413:1457" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1473:1546" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1566:1609" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1628:1674" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1696:1736" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1753:1851" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1874:1913" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="1936:2044" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="2064:2220" placeholder="{...}" />
+            <marker date="1445931222178" expanded="true" signature="2247:2262" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
