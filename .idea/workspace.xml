@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cbded24-73a6-4646-83a6-d81aa57343f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\.htaccess" afterPath="$PROJECT_DIR$/admin/.htaccess" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\cache\.htaccess" afterPath="$PROJECT_DIR$/admin/cache/.htaccess" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\cache\index.html" afterPath="$PROJECT_DIR$/admin/cache/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\autoload.php" afterPath="$PROJECT_DIR$/admin/config/autoload.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\config.php" afterPath="$PROJECT_DIR$/admin/config/config.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\constants.php" afterPath="$PROJECT_DIR$/admin/config/constants.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\database.php" afterPath="$PROJECT_DIR$/admin/config/database.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\doctypes.php" afterPath="$PROJECT_DIR$/admin/config/doctypes.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\foreign_chars.php" afterPath="$PROJECT_DIR$/admin/config/foreign_chars.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\hooks.php" afterPath="$PROJECT_DIR$/admin/config/hooks.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\index.html" afterPath="$PROJECT_DIR$/admin/config/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\memcached.php" afterPath="$PROJECT_DIR$/admin/config/memcached.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\migration.php" afterPath="$PROJECT_DIR$/admin/config/migration.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\mimes.php" afterPath="$PROJECT_DIR$/admin/config/mimes.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\profiler.php" afterPath="$PROJECT_DIR$/admin/config/profiler.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\routes.php" afterPath="$PROJECT_DIR$/admin/config/routes.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\smileys.php" afterPath="$PROJECT_DIR$/admin/config/smileys.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\config\user_agents.php" afterPath="$PROJECT_DIR$/admin/config/user_agents.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\controllers\Welcome.php" afterPath="$PROJECT_DIR$/admin/controllers/Welcome.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\controllers\index.html" afterPath="$PROJECT_DIR$/admin/controllers/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\core\index.html" afterPath="$PROJECT_DIR$/admin/core/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\helpers\index.html" afterPath="$PROJECT_DIR$/admin/helpers/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\hooks\index.html" afterPath="$PROJECT_DIR$/admin/hooks/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\index.html" afterPath="$PROJECT_DIR$/admin/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\language\english\index.html" afterPath="$PROJECT_DIR$/admin/language/english/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\language\index.html" afterPath="$PROJECT_DIR$/admin/language/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\libraries\index.html" afterPath="$PROJECT_DIR$/admin/libraries/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\logs\index.html" afterPath="$PROJECT_DIR$/admin/logs/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\models\index.html" afterPath="$PROJECT_DIR$/admin/models/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\third_party\index.html" afterPath="$PROJECT_DIR$/admin/third_party/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-404.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-404.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-form.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-form.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-gallery.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-gallery.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-help.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-help.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-index-fixed.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-index-fixed.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-index.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-log.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-log.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-table.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-table.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\admin-user.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/admin-user.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\blog.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/blog.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\admin.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/admin.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\amazeui.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/amazeui.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\amazeui.flat.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/amazeui.flat.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\amazeui.flat.min.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/amazeui.flat.min.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\amazeui.min.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/amazeui.min.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\css\app.css" afterPath="$PROJECT_DIR$/admin/views/Amaze/css/app.css" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\fonts\fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/admin/views/Amaze/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\app-icon72x72@2x.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/app-icon72x72@2x.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\admin-chrome.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/admin-chrome.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\admin-firefox.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/admin-firefox.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\admin-ie.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/admin-ie.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\admin-opera.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/admin-opera.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\admin-safari.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/admin-safari.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\adminPage.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/adminPage.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\blogPage.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/blogPage.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\landing.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/landing.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\landingPage.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/landingPage.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\loginPage.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/loginPage.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\examples\sidebarPage.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/examples/sidebarPage.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\favicon.png" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/favicon.png" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\i\startup.jpg" afterPath="$PROJECT_DIR$/admin/views/Amaze/i/startup.jpg" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\index.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\iscroll.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/iscroll.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.ie8polyfill.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.ie8polyfill.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.ie8polyfill.min.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.ie8polyfill.min.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.min.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.min.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.widgets.helper.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.widgets.helper.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\amazeui.widgets.helper.min.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/amazeui.widgets.helper.min.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\app.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/app.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\handlebars.min.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/handlebars.min.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\js\jquery.min.js" afterPath="$PROJECT_DIR$/admin/views/Amaze/js/jquery.min.js" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\landing.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/landing.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\login.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/login.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\non-responsive.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/non-responsive.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\sidebar.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/sidebar.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\widget.basic.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/widget.basic.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\Amaze\widget.html" afterPath="$PROJECT_DIR$/admin/views/Amaze/widget.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\error_404.php" afterPath="$PROJECT_DIR$/admin/views/errors/cli/error_404.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\error_db.php" afterPath="$PROJECT_DIR$/admin/views/errors/cli/error_db.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\error_exception.php" afterPath="$PROJECT_DIR$/admin/views/errors/cli/error_exception.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\error_general.php" afterPath="$PROJECT_DIR$/admin/views/errors/cli/error_general.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\error_php.php" afterPath="$PROJECT_DIR$/admin/views/errors/cli/error_php.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\cli\index.html" afterPath="$PROJECT_DIR$/admin/views/errors/cli/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\error_404.php" afterPath="$PROJECT_DIR$/admin/views/errors/html/error_404.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\error_db.php" afterPath="$PROJECT_DIR$/admin/views/errors/html/error_db.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\error_exception.php" afterPath="$PROJECT_DIR$/admin/views/errors/html/error_exception.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\error_general.php" afterPath="$PROJECT_DIR$/admin/views/errors/html/error_general.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\error_php.php" afterPath="$PROJECT_DIR$/admin/views/errors/html/error_php.php" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\html\index.html" afterPath="$PROJECT_DIR$/admin/views/errors/html/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\errors\index.html" afterPath="$PROJECT_DIR$/admin/views/errors/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\index.html" afterPath="$PROJECT_DIR$/admin/views/index.html" />
-      <change type="MOVED" beforePath="D:\EasyPHP\data\localweb\WebEngine\application\views\welcome_message.php" afterPath="$PROJECT_DIR$/admin/views/welcome_message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="WebEngine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,10 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4493392">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -190,18 +101,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin-404.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/views/Amaze/admin-404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1445913403157" expanded="true" signature="817:938" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="startup.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/views/Amaze/i/startup.jpg">
           <provider selected="true" editor-type-id="images">
@@ -224,8 +123,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -235,6 +134,9 @@
   </component>
   <component name="NamedScopeManager">
     <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
   <component name="ProjectFrameBounds">
@@ -293,6 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -335,6 +238,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2cbded24-73a6-4646-83a6-d81aa57343f4" name="Default" comment="" />
@@ -348,7 +254,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -367,6 +273,14 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -491,14 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/views/Amaze/admin-form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-30.73077">
@@ -549,7 +455,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1445913403157" expanded="true" signature="817:938" placeholder="..." />
+            <marker date="1445913403157" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -613,6 +519,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4493392">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,7 +1,24 @@
 # WebEngine -- 东半球第二好用的CMS系统
 
-目录结构
+###目录结构
 
-解压项目包；
-将项目文件夹及里面的文件上传到服务器，index.php文件将位于网站的根目录；
-application/config/config.php文件设置你网站的根URL，如果你想使用加密或会话，在这里设置上你的加密密钥；
+├─admin                 // 管理控制台项目
+│  ├─cache              // CI 缓存
+│  ├─config             // CI 配置文件
+│  ├─controllers        // CI 控制器
+│  ├─core               // CI 扩展类
+│  ├─helpers            // CI 辅助函数
+│  ├─hooks              // CI 钩子
+│  ├─language           // CI 语言类
+│  ├─libraries          // CI 自定义函数
+│  ├─logs               // CI 日志
+│  ├─models             // CI 模型
+│  ├─third_party        // 第三方插件
+│  └─views              // CI 视图文件
+├─install               // 安装程序
+├─mobile                // 移动端
+├─system                // 核心
+├─upload                // 文件上传目录
+│  └─images
+├─user_guide            // 用户手册
+└─web                   // 前端页面
