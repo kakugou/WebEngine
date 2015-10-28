@@ -1,6 +1,4 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?>
+
 <!DOCTYPE html>
 <html>
 <head lang="en">
@@ -12,11 +10,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="format-detection" content="telephone=no">
     <meta name="renderer" content="webkit">
     <meta http-equiv="Cache-Control" content="no-siteapp"/>
-    <link rel="alternate icon" type="image/png" href="../i/favicon.png">
-    <link rel="stylesheet" href="css/amazeui.min.css"/>
-    <style>
-
-    </style>
+    <link rel="alternate icon" type="image/png" href="i/favicon.png">
+    <link rel="stylesheet" href="css/amazeui.min.css">
 </head>
 <body>
 <header class="am-topbar am-topbar-fixed-top">
@@ -25,8 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a href="#">Amaze UI</a>
         </h1>
 
-        <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-secondary am-show-sm-only"
-                data-am-collapse="{target: '#collapse-head'}"><span class="am-sr-only">导航切换</span> <span
+        <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-secondary am-show-sm-only"><span class="am-sr-only">导航切换</span> <span
                 class="am-icon-bars"></span></button>
 
         <div class="am-collapse am-topbar-collapse" id="collapse-head">
